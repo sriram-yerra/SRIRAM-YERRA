@@ -102,13 +102,19 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
+<p align="center">
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram-yerra&show_icons=true&locale=en&layout=compact" alt="sriram-yerra" style="width: 48%;" />
+</p>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram-yerra&show_icons=true&locale=en&layout=compact" alt="sriram-yerra" style="width: 48%;" /></p>
-
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=sriram-yerra&show_icons=true&locale=en" alt="sriram-yerra" style="width: 48%;" />
+</p>
+
+<p align="center">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram-yerra&" alt="sriram-yerra" style="width: 48%;"  />
-</div>
+</p>
+
+
 
 
 
