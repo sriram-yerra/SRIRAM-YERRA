@@ -102,7 +102,7 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
+<p align="right">
     <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram-yerra&show_icons=true&locale=en&layout=compact" alt="sriram-yerra" style="width: 48%;" />
 </p>
 
