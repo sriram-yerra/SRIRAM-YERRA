@@ -1,4 +1,7 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcfKDw1wV2a_9aS3UcJpHkrihZ6JYmvQJ_YP6wAJ42MTIK7RXeiMQSqZOexGUj5WDF4Q)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcfKDw1wV2a_9aS3UcJpHkrihZ6JYmvQJ_YP6wAJ42MTIK7RXeiMQSqZOexGUj5WDF4Q" alt="MasterHead">
+</p>
+
 
 <h1 align="center">Hi there! 👋 I'm Sriram Yerra</h1>
 <h3 align="center">Data Science Enthusiast | Frontend Developer | Open Source Contributor</h3>
