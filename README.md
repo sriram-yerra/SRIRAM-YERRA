@@ -1,14 +1,23 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-<h1 align="center">Hi 👋, I'm Sriram yerra</h1>
-<h3 align="center">A passionate Data Science Enthusiast and a frontend developer from India</h3>
+[![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)]
+<h1 align="center">Hi there! 👋 I'm Sriram Yerra</h1>
+<h3 align="center">Data Science Enthusiast | Frontend Developer | Open Source Contributor</h3>
+<p align="center">
+  <a href="https://twitter.com/sriram__yerra" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/sriram__yerra?logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  </a>
+  <a href="https://www.linkedin.com/in/sriram-yerra-44a345220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
+  </a>
+  <a href="mailto:yerrasriram.197056@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail Contact">
+  </a>
+</p>
+
+
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram-yerra&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-yerra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriram-yerra" alt="sriram-yerra" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sriram__yerra" target="blank"><img src="https://img.shields.io/twitter/follow/sriram__yerra?logo=twitter&style=for-the-badge" alt="sriram__yerra" /></a> </p>
 
 - 🔭 I’m currently working on **Random Forest Machine Learning Model**
 
