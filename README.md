@@ -1,4 +1,5 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcfKDw1wV2a_9aS3UcJpHkrihZ6JYmvQJ_YP6wAJ42MTIK7RXeiMQSqZOexGUj5WDF4Q)
+
 <h1 align="center">Hi there! 👋 I'm Sriram Yerra</h1>
 <h3 align="center">Data Science Enthusiast | Frontend Developer | Open Source Contributor</h3>
 <p align="center">
