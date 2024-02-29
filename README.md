@@ -104,7 +104,7 @@
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram-yerra&show_icons=true&locale=en&layout=compact" alt="sriram-yerra" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sriram-yerra&show_icons=true&locale=en" alt="sriram-yerra" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram-yerra&" alt="sriram-yerra" /> </p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sriram-yerra&show_icons=true&locale=en" alt="sriram-yerra" /> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram-yerra&" alt="sriram-yerra" /> </p>
 
 
 
