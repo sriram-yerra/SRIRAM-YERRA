@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi there! 👋 I'm Sriram Yerra</h1>
+<h1 align="center">Hi there! 👋 I'm Sriram</h1>
 <h3 align="center">Data Science Enthusiast | Frontend Developer | Open Source Contributor</h3>
 <p align="center">
   <a href="https://twitter.com/sriram__yerra" target="_blank">
