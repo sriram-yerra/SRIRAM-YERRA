@@ -25,7 +25,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriram-yerra&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-yerra" /> </p>
 
-- 🔭 I’m currently working on *Random Forest Machine Learning Model*
+- 🔭 I’m currently working on *Random Forest ML Model*
 
 - 🌱 I’m currently learning *Tensor Flow, Deep Learning and React JS*
 
